@@ -1,0 +1,24 @@
+//prrimary stats;
+Melee=4;
+Magic=4;
+Ranged=4;
+Defense=4;
+//secondary stats;
+Crafting=4;
+Alchemy=4;
+Stealth=4;
+Speech=4;
+
+//damage types;
+//	piercing;
+//	crushing;
+
+//elements;
+//	fire;
+//	water;
+//	earth;
+//	wind;
+//	shock;
+//	light;
+//	poison;
+//	shadow;

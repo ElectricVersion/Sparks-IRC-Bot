@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1435952462 source:c:\users\student\desktop\sfml irc client\main.cpp
+	<SFML/Network.hpp>
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	<fstream>
+	<sstream>
+	"parser.hpp"
+	"line.hpp"
+	"command_rng.hpp"
+
+1380119803 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network.hpp
+	<SFML/System.hpp>
+	<SFML/Network/Ftp.hpp>
+	<SFML/Network/Http.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<SFML/Network/Packet.hpp>
+	<SFML/Network/SocketSelector.hpp>
+	<SFML/Network/TcpListener.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/Network/UdpSocket.hpp>
+
+1380119804 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1380119803 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\config.hpp
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<locale>
+	<string>
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\thread.inl
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\threadlocalptr.inl
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\utf.inl
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\vector2.inl
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1380119809 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\system\vector3.inl
+
+1380119807 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\ftp.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1380119807 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\export.hpp
+	<SFML/Config.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\tcpsocket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+	<SFML/System/Time.hpp>
+
+1380119807 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\socket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/SocketHandle.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<vector>
+
+1380119807 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\sockethandle.hpp
+	<SFML/Config.hpp>
+	<basetsd.h>
+
+1380119807 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\http.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<SFML/Network/TcpSocket.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<map>
+	<string>
+
+1380119807 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\ipaddress.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/System/Time.hpp>
+	<istream>
+	<ostream>
+	<string>
+
+1380119807 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\packet.hpp
+	<SFML/Network/Export.hpp>
+	<string>
+	<vector>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\socketselector.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\tcplistener.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+
+1380119808 c:\users\student\desktop\libraries\sfml-2.1\include\sfml\network\udpsocket.hpp
+	<SFML/Network/Export.hpp>
+	<SFML/Network/Socket.hpp>
+	<vector>
+
+1435951429 source:c:\users\student\desktop\sfml irc client\command.cpp
+	"command.hpp"
+	<vector>
+
+1435950570 c:\users\student\desktop\sfml irc client\command.hpp
+	<string>
+	"line.hpp"
+
+1422303886 c:\users\student\desktop\sfml irc client\json\reader.h
+	"elements.h"
+	<iostream>
+	<vector>
+	"reader.inl"
+
+1422303886 c:\users\student\desktop\sfml irc client\json\elements.h
+	<deque>
+	<list>
+	<string>
+	<stdexcept>
+	"elements.inl"
+
+1422303886 c:\users\student\desktop\sfml irc client\json\elements.inl
+	"visitor.h"
+	"reader.h"
+	<cassert>
+	<algorithm>
+	<map>
+
+1422303886 c:\users\student\desktop\sfml irc client\json\visitor.h
+	"elements.h"
+
+1424887132 c:\users\student\desktop\sfml irc client\json\reader.inl
+	<cassert>
+	<set>
+	<sstream>
+
+1425494920 source:c:\users\student\desktop\sfml irc client\environment.cpp
+	"environment.hpp"
+	<string>
+	<iostream>
+	<SFML/System.hpp>
+
+1425494923 c:\users\student\desktop\sfml irc client\environment.hpp
+
+1435952224 c:\users\student\desktop\sfml irc client\parser.hpp
+	<string>
+
+1426697788 source:c:\users\student\desktop\sfml irc client\parser.cpp
+	"parser.hpp"
+	<vector>
+	<iostream>
+
+1435952009 source:c:\users\student\desktop\sfml irc client\line.cpp
+	"line.hpp"
+	<vector>
+
+1435946374 c:\users\student\desktop\sfml irc client\line.hpp
+	<string>
+
+1435950765 source:c:\users\student\desktop\sfml irc client\command_rng.cpp
+	"command_rng.hpp"
+	<random>
+	<sstream>
+
+1435950218 c:\users\student\desktop\sfml irc client\command_rng.hpp
+	"command.hpp"
+	<random>
+
